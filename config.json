@@ -1,0 +1,17 @@
+{
+    "name": "FTP: Carsten-Lang Future Time Perspective Questionnaire Survey",
+    "template":"survey",
+    "exp_id": "future-time-perspective-survey",
+    "cognitive_atlas_task_id": "trm_56a915fe77945",
+    "contributors": [
+             "Zeynep Enkavi",
+             "Ian Eisenberg",
+             "Patrick Bissett",
+             "Vanessa Sochat",
+             "Russell Poldrack"
+            ], 
+    "time":3,
+    "reference": ["http://psych.stanford.edu/~lifespan/doc/FTP_English.pdf"],
+    "description": "Experiment Factory survey",
+    "instructions": "Please answer the following questions to the best of your ability"
+}
